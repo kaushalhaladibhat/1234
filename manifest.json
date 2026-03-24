@@ -1,21 +1,12 @@
 {
-  "name": "BudChat",
-  "short_name": "SwiftChat",
-  "icons": [
-    {
-      "src": "n/a",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "n/a",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "start_url": "/",
-  "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "description": "Fahhh"
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "kaushalhaladibhat.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "kaushalhaladibhat.github",
+  "start_url": "/https://kaushalhaladibhat.github.io/1234/",
+  "theme_color": "#ffffff",
+  "description": "fahhh"
 }
